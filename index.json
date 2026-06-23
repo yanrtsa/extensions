@@ -12,12 +12,12 @@
         "name": "Manga Livre",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangalivre",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/yanrtsa/extensions/refs/heads/repo/apk/tachiyomi-pt.mangalivre-v1.4.66.apk",
+          "apkUrl": "https://raw.githubusercontent.com/yanrtsa/extensions/refs/heads/repo/apk/tachiyomi-pt.mangalivre-v1.4.67.apk",
           "iconUrl": "https://raw.githubusercontent.com/yanrtsa/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.mangalivre.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "66",
-        "versionName": "1.4.66",
+        "versionCode": "67",
+        "versionName": "1.4.67",
         "sources": [
           {
             "id": "2834885536325274328",
