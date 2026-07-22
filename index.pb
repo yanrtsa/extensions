@@ -3,4 +3,4 @@
 https://keiyoushi.github.iohttps://discord.gg/3FbCpdKbdYªï
 ì
 Manga Livre+eu.kanade.tachiyomi.extension.pt.mangalivreé
-lhttps://raw.githubusercontent.com/yanrtsa/extensions/refs/heads/repo/apk/tachiyomi-pt.mangalivre-v1.4.71.apkyhttps://raw.githubusercontent.com/yanrtsa/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.mangalivre.png"1.4(G21.4.71B5Ø•¾Ü¬â«'Manga Livrept-BR"https://toonlivre.net
+lhttps://raw.githubusercontent.com/yanrtsa/extensions/refs/heads/repo/apk/tachiyomi-pt.mangalivre-v1.4.73.apkyhttps://raw.githubusercontent.com/yanrtsa/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.mangalivre.png"1.4(I21.4.73B5Ø•¾Ü¬â«'Manga Livrept-BR"https://toonlivre.net
