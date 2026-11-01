@@ -3,4 +3,4 @@
 https://keiyoushi.github.iohttps://discord.gg/3FbCpdKbdYªŞ
 Û
 	ToonLivre+eu.kanade.tachiyomi.extension.pt.mangalivreØ
-lhttps://raw.githubusercontent.com/yanrtsa/extensions/refs/heads/repo/apk/tachiyomi-pt.mangalivre-v1.6.94.apkyhttps://raw.githubusercontent.com/yanrtsa/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.mangalivre.pngªlhttps://raw.githubusercontent.com/yanrtsa/extensions/refs/heads/repo/apk/tachiyomi-pt.mangalivre-v1.6.94.jar"1.6(î¼21.6.948B3Ø•¾Ü¬â«'	ToonLivrept-BR"https://toonlivre.net
+lhttps://raw.githubusercontent.com/yanrtsa/extensions/refs/heads/repo/apk/tachiyomi-pt.mangalivre-v1.6.95.apkyhttps://raw.githubusercontent.com/yanrtsa/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.mangalivre.pngªlhttps://raw.githubusercontent.com/yanrtsa/extensions/refs/heads/repo/apk/tachiyomi-pt.mangalivre-v1.6.95.jar"1.6(ï¼21.6.958B3Ø•¾Ü¬â«'	ToonLivrept-BR"https://toonlivre.net
